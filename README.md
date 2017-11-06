@@ -1,5 +1,4 @@
-# Getting Started
+# Sound of the Beast
 
-1. `git clone` this repo
-2. `npm install`
-3. enjoy!
+## Rect Project using data visualization with The Counted API 
+
